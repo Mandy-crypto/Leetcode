@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Mandy-crypto/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Mandy-crypto/Leetcode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Mandy-crypto/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
