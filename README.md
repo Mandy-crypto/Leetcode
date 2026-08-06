@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Mandy-crypto/Leetcode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Mandy-crypto/Leetcode/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mandy-crypto/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Mandy-crypto/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
