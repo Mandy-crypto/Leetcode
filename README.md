@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mandy-crypto/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/Mandy-crypto/Leetcode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/Mandy-crypto/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0994-rotting-oranges](https://github.com/Mandy-crypto/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Mandy-crypto/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0994-rotting-oranges](https://github.com/Mandy-crypto/Leetcode/tree/master/0994-rotting-oranges) |
 ## Math
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Mandy-crypto/Leetcode/tree/master/0155-min-stack) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Mandy-crypto/Leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
