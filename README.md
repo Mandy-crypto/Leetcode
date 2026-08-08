@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Mandy-crypto/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Mandy-crypto/Leetcode/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Mandy-crypto/Leetcode/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -85,8 +86,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Mandy-crypto/Leetcode/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Mandy-crypto/Leetcode/tree/master/0901-online-stock-span) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Mandy-crypto/Leetcode/tree/master/0994-rotting-oranges) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Mandy-crypto/Leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Mandy-crypto/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
