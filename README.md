@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mandy-crypto/Leetcode/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/Mandy-crypto/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Mandy-crypto/Leetcode/tree/master/0169-majority-element) |
 ## Linked List
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mandy-crypto/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Mandy-crypto/Leetcode/tree/master/0050-powx-n) |
 ## Recursion
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mandy-crypto/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Mandy-crypto/Leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Mandy-crypto/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
