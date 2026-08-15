@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mandy-crypto/Leetcode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Mandy-crypto/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Mandy-crypto/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Mandy-crypto/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Mandy-crypto/Leetcode/tree/master/0242-valid-anagram) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mandy-crypto/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/Mandy-crypto/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/Mandy-crypto/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mandy-crypto/Leetcode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/Mandy-crypto/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0994-rotting-oranges](https://github.com/Mandy-crypto/Leetcode/tree/master/0994-rotting-oranges) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mandy-crypto/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mandy-crypto/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
