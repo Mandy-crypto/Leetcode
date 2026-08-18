@@ -1,18 +1,18 @@
 class Solution {
 public:
-    int compareVersion(string v1,string v2) {
+    int compareVersion(string version1, string version2) {
         int i=0,j=0;
-        int n=v1.size(),m=v2.size();
+        int n=version1.size(),m=version2.size();
         while (i<n || j<m) 
         {
             long long num1=0,num2=0;
-            while (i<n && v1[i]!='.') {
-                num1=num1*10+(v1[i]-'0');
+            while (i<n && version1[i]!='.') {
+                num1=num1*10+(version1[i]-'0');
                 i++;
             }
-            while (j<m && v2[j]!='.') 
+            while (j<m && version2[j]!='.') 
             {
-                num2=num2*10+(v2[j]-'0');
+                num2=num2*10+(version2[j]-'0');
                 j++;
             }
             if (num1<num2) return -1;
