@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mandy-crypto/Leetcode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/Mandy-crypto/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0994-rotting-oranges](https://github.com/Mandy-crypto/Leetcode/tree/master/0994-rotting-oranges) |
+| [1480-running-sum-of-1d-array](https://github.com/Mandy-crypto/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Mandy-crypto/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mandy-crypto/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mandy-crypto/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Mandy-crypto/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
