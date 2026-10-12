@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Mandy-crypto/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Mandy-crypto/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Mandy-crypto/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Mandy-crypto/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mandy-crypto/Leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mandy-crypto/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Mandy-crypto/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mandy-crypto/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Mandy-crypto/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Mandy-crypto/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0994-rotting-oranges](https://github.com/Mandy-crypto/Leetcode/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/Mandy-crypto/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -62,15 +64,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mandy-crypto/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Mandy-crypto/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mandy-crypto/Leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mandy-crypto/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Mandy-crypto/Leetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mandy-crypto/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Mandy-crypto/Leetcode/tree/master/0229-majority-element-ii) |
 ## Queue
 |  |
 | ------- |
